@@ -1,0 +1,16 @@
+#showcase-3 {
+    flex-direction: column;
+}
+#showcase-2 .container .section-text {
+    text-align: center;
+}
+#about-info .container {
+    flex-direction: column;
+}
+#testimonials {
+    padding-bottom: 300px;
+}
+
+.info-box {
+    transform: scale(0.7);
+}
